@@ -27,16 +27,19 @@ default so the numbers mean the same thing in every case.
 
 ```
 capsule_<alias>/
+├── setup.txt           trimmed solver setup report
 ├── summary.json        global scalars
 ├── planes/             plane sections, CSV and image in pairs
 ├── samples.csv         importance-weighted volume sample
 ├── features.json       named flow features
 ├── views/              renders answering declared questions
+├── diff.json           what was compared, and against what
 ├── diff/               image differences between capsules
 ├── run_macro.java      reproduction
 ├── manifest.json       seeds, colorbar ranges, versions
 ├── signals/            time series and spectra
 ├── modes/              POD and DMD decomposition
+├── snapshots/          phase-locked renders (optional)
 └── disclosure.json     what is safe to send outside
 ```
 
@@ -60,14 +63,13 @@ model-agnostic.
 | 4 | [Volumetric Importance-Based Sampling](https://community.sw.siemens.com/s/question/0D5Vb00001RmgOaKAJ/preparing-cfd-output-for-large-language-models-410-volumetric-importancebased-sampling) | jet in crossflow |
 | 5 | [Semantic Feature Extraction](https://community.sw.siemens.com/s/question/0D5Vb00001SkKCtKAN/preparing-cfd-output-for-large-language-models-510-semantic-feature-extraction) | delta wing |
 | 6 | [Visualizations Designed for LLMs](https://community.sw.siemens.com/s/question/0D5Vb00001WjpY0KAJ/preparing-cfd-output-for-large-language-models-610-visualizations-designed-for-llms) | Ahmed body |
+| 6b | [Case Comparison via Image Differencing](https://community.sw.siemens.com/s/question/0D5Vb00001YuokeKAB/preparing-cfd-output-for-large-language-models-6b10-case-comparison-via-image-differencing) | NACA 0012, 5 vs 7 degrees |
 | 7 | Automation: the reproducible capsule | cube wake |
 | 8 | Transient fields I: time as statistics | cylinder, Re 100 |
 | 9 | Transient fields II: modes | cylinder, Re 100 |
 | 10 | Confidentiality: what leaves the building | Ahmed body |
 
-A parallel part covers case comparison by image differencing.
-
-Parts 1 to 6 are published. The rest are in progress.
+Parts 1 to 6 are published, and 6b with them. The rest are in progress.
 
 ---
 
