@@ -65,12 +65,12 @@ model-agnostic.
 | 6b | [Case Comparison via Image Differencing](https://community.sw.siemens.com/s/question/0D5Vb00001YuokeKAB/preparing-cfd-output-for-large-language-models-6b10-case-comparison-via-image-differencing) | NACA 0012, 5 vs 7 degrees |
 | 7a | [Automation, the Macro That Builds the Capsule](https://community.sw.siemens.com/s/question/0D5Vb00001dUIzpKAG/preparing-cfd-output-for-large-language-models-7a10-automation-the-macro-that-builds-the-capsule) | cube wake, Re 100 |
 | 7b | [Four Reynolds Numbers, the Cube That Would Not Sit Still](https://community.sw.siemens.com/s/question/0D5Vb00001dtHuCKAU/preparing-cfd-output-for-large-language-models-7b10-four-reynolds-numbers-the-cube-that-would-not-sit-still) | cube wake, Re 100 to 3000 |
-| 7c | Integrity, a Capsule Sealed to a Commit | cube wake |
+| 7c | [Integrity, a Capsule Sealed to a Commit](https://community.sw.siemens.com/s/question/0D5Vb00001fgMSYKA2/preparing-cfd-output-for-large-language-models-7c10-integrity-a-capsule-sealed-to-a-commit) | cube wake |
 | 8 | Transient fields I: time as statistics | cylinder, Re 100 |
 | 9 | Transient fields II: modes | cylinder, Re 100 |
 | 10 | Confidentiality: what leaves the building | Ahmed body |
 
-Parts 1 to 6 are published, along with 6b, 7a and 7b. The rest are in progress.
+Parts 1 to 7 are published (7a, 7b, 7c), along with 6b. The rest are in progress.
 
 ---
 
