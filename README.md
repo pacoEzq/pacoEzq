@@ -66,11 +66,12 @@ model-agnostic.
 | 7a | [Automation, the Macro That Builds the Capsule](https://community.sw.siemens.com/s/question/0D5Vb00001dUIzpKAG/preparing-cfd-output-for-large-language-models-7a10-automation-the-macro-that-builds-the-capsule) | cube wake, Re 100 |
 | 7b | [Four Reynolds Numbers, the Cube That Would Not Sit Still](https://community.sw.siemens.com/s/question/0D5Vb00001dtHuCKAU/preparing-cfd-output-for-large-language-models-7b10-four-reynolds-numbers-the-cube-that-would-not-sit-still) | cube wake, Re 100 to 3000 |
 | 7c | [Integrity, a Capsule Sealed to a Commit](https://community.sw.siemens.com/s/question/0D5Vb00001fgMSYKA2/preparing-cfd-output-for-large-language-models-7c10-integrity-a-capsule-sealed-to-a-commit) | cube wake |
-| 8 | Transient fields I: time as statistics | cylinder, Re 100 |
+| 8a | [Transient Fields I, Time as Statistics: One Window of Whole Periods](https://community.sw.siemens.com/s/question/0D5Vb00001imOEMKA2/preparing-cfd-output-for-large-language-models-8a10-transient-fields-i-time-as-statistics-one-window-of-whole-periods) | cylinder, Re 100 |
+| 8b | [Transient Fields I, Time as Statistics: the Cycle Through Its Phase and Its Spectrum](https://community.sw.siemens.com/s/question/0D5Vb00001l7xXkKAI/preparing-cfd-output-for-large-language-models-8b10-transient-fields-i-time-as-statistics-the-cycle-through-its-phase-and-its-spectrum) | cylinder, Re 100 |
 | 9 | Transient fields II: modes | cylinder, Re 100 |
 | 10 | Confidentiality: what leaves the building | Ahmed body |
 
-Parts 1 to 7 are published (7a, 7b, 7c), along with 6b. The rest are in progress.
+Parts 1 to 8 are published (7a, 7b, 7c, 8a, 8b), along with 6b. The rest are in progress.
 
 ---
 
